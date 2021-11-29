@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>huBlog</title>
+    <link>https://hugojira.github.io/</link>
+    <description>Recent content on huBlog</description>
+    <image>
+      <url>https://hugojira.github.io/papermod-cover.png</url>
+      <link>https://hugojira.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 May 2021 19:32:36 -0700</lastBuildDate><atom:link href="https://hugojira.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://hugojira.github.io/posts/test/</link>
+      <pubDate>Sun, 16 May 2021 19:32:36 -0700</pubDate>
+      
+      <guid>https://hugojira.github.io/posts/test/</guid>
+      <description>Creating a markdown post with some R code in it.
+print(&amp;#34;hello, world!&amp;#34;) </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://hugojira.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hugojira.github.io/about/</guid>
+      <description>input[type=email] { width: 100%; /* Full width */ border: 1px solid #999; border-radius: 10px; padding: 5px; margin:10px 0; box-shadow:0 0 15px 4px rgba(0,0,0,0.04); -webkit-appearance: none; } input[type=text], textarea { width: 100%; border: 1px solid #999; border-radius: 10px; padding: 5px; margin:10px 0; box-shadow:0 0 15px 4px rgba(0,0,0,0.04); box-sizing: content-box; resize: vertical; -webkit-appearance: none; } button[type=submit] { /* remove default behavior */ appearance:none; -webkit-appearance:none; /* usual styles */ padding:10px; border:none; background-color:#3F51B5; color:#fff; font-weight:600; border-radius:5px; width:15%; } button[type=submit]:hover { background-color: green; }  This is a page for information and contact.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
